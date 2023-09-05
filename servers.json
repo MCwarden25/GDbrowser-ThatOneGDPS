@@ -1,14 +1,12 @@
 [
   {
-    "name": "Geometry Dash",
-    "link": "https://store.steampowered.com/app/322170/Geometry_Dash/",
-    "author": "RobTop",
-    "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
+    "name": "That One GDPS",
+    "link": "https://onegdps.ps.fhgdps.com/tools/",
+    "author": "Qw9",
+    "authorLink": "www.youtube.com/@Qw9gd/",
     "id": "",
-    "endpoint": "http://www.boomlings.com/database/",
-    "timestampSuffix": " ago",
-    "demonList": "https://pointercrate.com/",
-    "downloadsDisabled": true,
+    "endpoint": "https://onegdps.ps.fhgdps.com/",
+    "timestampSuffix": " UTC",
     "pinned": true
   }
 ]
